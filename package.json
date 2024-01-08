@@ -20,7 +20,7 @@
   "author": "switters",
   "license": "MIT",
   "dependencies": {
-    "config": "^1.26.1",
+    "config": "^3.3.9",
     "dotenv": "^4.0.0",
     "yargs": "^15.3.1"
   }
